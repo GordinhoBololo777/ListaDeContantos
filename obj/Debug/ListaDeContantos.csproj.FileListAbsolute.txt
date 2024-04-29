@@ -1,0 +1,10 @@
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\bin\Debug\ListaDeContantos.exe.config
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\bin\Debug\ListaDeContantos.exe
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\bin\Debug\ListaDeContantos.pdb
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.csproj.AssemblyReference.cache
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.Properties.Resources.resources
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.csproj.GenerateResource.cache
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.csproj.CoreCompileInputs.cache
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.exe
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.pdb
+C:\Users\jonas.onsouza\source\repos\ListaDeContantos\obj\Debug\ListaDeContantos.Form1.resources
